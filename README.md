@@ -18,6 +18,7 @@
 - 컴퓨터 활용 능력 2급 (예정)
 
 - 빅데이터 분석 교육 과정 수료
+
 기술 및 능력|활용 수준|기타 사항
 |:--:|:--:|:--:|
 Java Script|하|교육중
@@ -55,12 +56,12 @@ SPSS|중|-
 - 내용
   - 팁별 자유 주제로 데이터를 수집하여 R을 활용한 데이터 분석하기  
 - 선정 주제
-  - **"회귀분석을 통한 범죄 건수 예측 및 감소 방안 마련"**  
+  - **회귀분석을 통한 범죄 건수 예측 및 감소 방안 마련**  
   - 회귀분석을 통해 범죄 발생에 미치는 변수를 찾아 범죄예방 방안 마련  
 - 기여: 데이터 수집 및 전처리, 회귀분석  
 <br>
 
-: ** 웹 크롤링 및 시각화** [→ 자세히 보기](https://github.com/ChoiJMS2/Project.git)  
+: **웹 크롤링 및 시각화** [→ 자세히 보기](https://github.com/ChoiJMS2/Project.git)  
 - 사용 언어: R
 - 작업툴: R Studio 
 - 인원: 개인  
@@ -69,7 +70,7 @@ SPSS|중|-
   - 자유 주제로 웹 크롤링
 <br>
 
-:point_right: **RFM분석을 통한 고객등급화 및 마케팅방안** [→ 자세히 보기](https://github.com/ChoiJMS2/Project.git)  
+: **RFM분석을 통한 고객등급화 및 마케팅방안** [→ 자세히 보기](https://github.com/ChoiJMS2/Project.git)  
 - 사용 언어: SQL
 - 작업툴: Hadoop Eco System - Hive 
 - 인원: 4명  
